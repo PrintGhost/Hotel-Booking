@@ -1,4 +1,4 @@
-Pavela Parvez
+Mahinur Rahman
 Features: 
 Make Reservation: Enables users to book a room by entering the quantity, type, and number of nights.
 
